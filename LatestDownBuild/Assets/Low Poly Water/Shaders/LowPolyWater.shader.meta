@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e16bf66701e8d34ab003d1972f6465d
+labels:
+- Low
+- Poly
+- Shader
+- Water
+timeCreated: 1483084674
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: water shader
+  assetBundleVariant: 
